@@ -1,0 +1,40 @@
+{
+    "usuarios": [
+      {
+        "name": "Peter Jason Quill",
+        "email": "peter.quill@testeqa.com.br",
+        "password": "Senha12345",
+		"administrador": "true"
+      },
+      {
+        "name": "Gamora Zen Whoberi Ben Titan",
+        "email": "gamora@testeqa.com",
+        "password": "Senha123456",
+		"administrador": "true"
+      },
+      {
+        "name": "Rocket Raccoon",
+        "email": "rocket.raccoon@testeqa.com",
+        "password": "Senha1234567",
+		"administrador": "true"
+      },
+      {
+        "name": "Groot",
+        "email": "groot@testeqa.com.br",
+        "password": "Senha12345678",
+		"administrador": "false"
+      },
+      {
+        "name": "Drax",
+        "email": "drax@testeqa.com",
+        "password": "Senha123456789",
+		"administrador": "false"
+      },
+      {
+        "name": "Yondu Udonta",
+        "email": "youndu@testeqa.com.br",
+        "password": "Senha1234567890",
+		"administrador": "false"
+      }
+    ]
+  }
