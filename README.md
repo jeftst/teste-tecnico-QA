@@ -19,5 +19,11 @@ npm install --save-dev mochawesome
 
 4. Abra o Cypress pela primeira vez para que ele crie a estrutura de diretórios:
 
-
 npx cypress open
+
+Nesse projeto testamos o Front https://front.serverest.dev/ e os Servisos https://serverest.dev/.
+
+O roteiro de teste pode ser encontrado dentro do repositorio como "roteiro.md", bem como no formato Gherkin no arquivo "BDD.md".
+
+**Recomneto executar os testes com o browser Electron, devido aos serviços que estamos consumindo nesse projeto.
+**Vale lembrar que todas as execuções de quaisquer testes ficam salvos os resultados para melhor documentação dos testes na pasta "results" e os videos das execuções salvors na pasta "videos".
